@@ -85,6 +85,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[RestAssured](https://github.com/rest-assured/rest-assured)** — Java DSL for testing REST services.
 - **[WireMock](https://github.com/wiremock/wiremock)** — Flexible API mocking and stubbing tool.
 - **[Mockoon](https://github.com/mockoon/mockoon)** — Easy-to-use desktop API mocking tool.
+- **[Parlel](https://github.com/dksingh1997/parlel)** — 250+ service emulators (Stripe, Postgres, Slack, S3, Kafka and more) on local Docker, speaking real wire protocols so unmodified client libraries connect to localhost.
 - **[Postwoman / Hoppscotch forks](https://github.com/hoppscotch/hoppscotch)** — Community maintained versions.
 - **[curl](https://github.com/curl/curl)** + modern wrappers like `httpie` and `xh`.
 - **[Paw alternatives](https://github.com/search?q=mac+api+client+open+source)** and cross-platform tools.
