@@ -17,6 +17,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
+- [Adjacent UI and Mobile QA Automation](#adjacent-ui-and-mobile-qa-automation)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
@@ -92,6 +93,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Testfully](https://github.com/testfully)** and other open-source API monitoring tools.
 
 **Frameworks for building custom tools**: Combine **Bruno** or **Hoppscotch** with **Newman**, **HTTP Toolkit**, and CI tools (GitHub Actions) for complete open-source API testing workflows.
+
+## Adjacent UI and Mobile QA Automation
+
+- **[Agent QA](https://github.com/vostride/agent-qa)** — Source-available CLI and MCP runner for natural-language web and mobile regression tests. Dockerized hooks can call APIs for setup and teardown, but it is not a dedicated API client. Model, browser, or device-provider charges may apply.
 
 ## How to Contribute
 
