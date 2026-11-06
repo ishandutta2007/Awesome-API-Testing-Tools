@@ -26,6 +26,7 @@
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🔍 Quick Comparison Matrix](#-quick-comparison-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⭐ Star History](#-star-history)
 - [📄 Disclaimer & License](#-disclaimer--license)
 
@@ -107,6 +108,18 @@ Contributions are welcome! Please follow these guidelines:
    - For Open-Source projects: Provide Repo Link, Star Badge (`style=social&color=white` linking to stargazers), Language, Category, and Description.
 3. Keep descriptions concise, factual, and strictly objective.
 4. Submit a **Pull Request** with a brief summary of the addition.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome API Testing Tools**! Maintaining and continually updating this curated directory takes ongoing time and care.
+
+If you find this list useful:
+- ⭐ **Star** this repository to help others discover it!
+- 🍴 **Fork** and contribute your favorite tools or insights!
+- 📢 **Share** it with fellow backend developers, QA engineers, and DevOps teams!
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back this project financially and fuel future open-source developer tool initiatives, consider supporting via the [**GitHub Sponsors Dashboard**](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
 
 ---
 
