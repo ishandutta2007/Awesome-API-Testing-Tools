@@ -58,9 +58,9 @@ The leading commercial platforms for API testing, mock services, traffic inspect
 
 ## 💻 Open-Source GitHub Projects
 
-Discover the highest-rated open-source API clients, mock servers, stress testing engines, and command-line test suites. Sorted by GitHub stars (descending).
+Discover the highest-rated open-source API clients, mock servers, stress testing engines, and command-line test suites. Sorted by GitHub_Stars (descending).
 
-| Project | Stars | Language / Ecosystem | Category | Description |
+| Project | GitHub_Stars | Language / Ecosystem | Category | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** | [![Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | TypeScript / Vue | API Client & Platform | Open-source API development ecosystem. Extremely fast web and desktop application supporting REST, GraphQL, SSE, and WebSockets. |
 | **[Bruno](https://github.com/usebruno/bruno)** | [![Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers) | JavaScript | Local-First API Client | Revolutionary, offline-first Postman alternative that stores collections directly as plain text files in your Git repository. |
@@ -105,7 +105,7 @@ Contributions are welcome! Please follow these guidelines:
 1. **Fork** this repository.
 2. **Add or modify** your tool in the appropriate table:
    - For SaaS products: Provide Name, Company Valuation/Revenue, Starting Price, Free Tier Limits, and Description.
-   - For Open-Source projects: Provide Repo Link, Star Badge (`style=social&color=white` linking to stargazers), Language, Category, and Description.
+   - For Open-Source projects: Provide Repo Link, Stars_Badge (`style=social&color=white` linking to stargazers), Language, Category, and Description.
 3. Keep descriptions concise, factual, and strictly objective.
 4. Submit a **Pull Request** with a brief summary of the addition.
 
@@ -134,3 +134,12 @@ If you find this list useful:
 - This is a community-curated repository intended for educational and developer productivity purposes.
 - Trademarks, product names, and logos belong to their respective corporate owners.
 - Distributed under the [MIT License](LICENSE).
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-API-Testing-Tools&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-API-Testing-Tools_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-API-Testing-Tools_growth.svg">
+  </picture>
+</a>
